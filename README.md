@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @FadhRach
-- 👀 I’m interested in Mobile Application, Website, & Game 
+- 👋 Hi, I’m @FadhRach or Fadhlan Nur Rachman
+- 👀 I’m interested in Mobile Application, Website, Networking & Game Industrial
 - 🌱 I’m currently learning Flutter, JavaScript, & C#
-- 💞️ I’m looking to collaborate on Make some Game
+- 💞️ I’m looking to collaborate on Software World
 - 📫 How to reach me fadhlannur007@gmail.com
 
 <!---
