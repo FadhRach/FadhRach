@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fadhrach&label=Profile%20views&color=0e75b6&style=flat" alt="fadhrach" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Web 3**
+- 🌱 I’m currently learning **AI and Web 3**
 
 - 👨‍💻 All of my projects are available at [fadhlnrach.vercel.app](fadhlnrach.vercel.app)
 
 - 💬 Ask me about **laravel, tailwind css, and all about algorithm programming**
 
-- 📫 How to reach me **fadhlannur00@gmail.com**
+- 📫 How to reach me **fadhlannur007@gmail.com**
 
 - ⚡ Fun fact **I like competitive things**
 
