@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **AI and Web 3**
 
-- 👨‍💻 All of my projects are available at [fadhlnrach.vercel.app](fadhlnrach.vercel.app)
+- 👨‍💻 All of my projects are available at [fadhlnrach.vercel.app](https://fadhlnrach.vercel.app)
 
 - 💬 Ask me about **laravel, tailwind css, and all about algorithm programming**
 
