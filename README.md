@@ -15,7 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/fadhlan nur rachman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fadhlan nur rachman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/fadhlan-nur-rachman-1a2457279/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fadhlan nur rachman" height="30" width="40" /></a>
 <a href="https://instagram.com/fadhlnrach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fadhlnrach" height="30" width="40" /></a>
 <a href="https://discord.gg/FadhlanCups#3260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FadhlanCups#3260" height="30" width="40" /></a>
 </p>
