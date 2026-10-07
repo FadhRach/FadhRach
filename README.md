@@ -16,7 +16,7 @@
   - 🗒️ Portfolio Website: [https://fadhlnrach.vercel.app](https://fadhlnrach.vercel.app)
   
 <div align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=FadhRach&theme=dark&hide_border=true">
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=FadhRach&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
       <p align="center">
         <a href="mailto:fadhlannur007@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
